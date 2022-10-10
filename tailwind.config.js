@@ -11,7 +11,7 @@ module.exports = {
         primary : 'black',
         secondary : '#0f172a',
         new: '#E4E5E6'
-      },
+      }
     },
   },
   plugins: [],
