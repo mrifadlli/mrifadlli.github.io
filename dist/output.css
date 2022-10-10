@@ -1042,6 +1042,14 @@ body {
     padding-top: 5rem;
   }
 
+  .md\:pt-0 {
+    padding-top: 0px;
+  }
+
+  .md\:pt-3 {
+    padding-top: 0.75rem;
+  }
+
   .md\:text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;
@@ -1095,6 +1103,10 @@ body {
 
   .lg\:pt-20 {
     padding-top: 5rem;
+  }
+
+  .lg\:pt-3 {
+    padding-top: 0.75rem;
   }
 
   .lg\:text-2xl {
@@ -1158,6 +1170,14 @@ body {
 
   .xl\:pt-20 {
     padding-top: 5rem;
+  }
+
+  .xl\:pt-0 {
+    padding-top: 0px;
+  }
+
+  .xl\:pt-3 {
+    padding-top: 0.75rem;
   }
 }
 
